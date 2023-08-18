@@ -90,7 +90,8 @@ RTL
 
 simulation:
 
-![Screenshot (348)](https://github.com/VelasiriSreeja/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118344328/3d5a1e55-6847-406c-90bb-3be334a34081)
+![Screenshot (351)](https://github.com/VelasiriSreeja/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118344328/96ef6e56-7cb5-4029-8983-e20556bb205f)
+
 
 
 Result:
